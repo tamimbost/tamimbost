@@ -1,9 +1,10 @@
 
 ### Hi there 👋, I am Si Tamim
-#### I am Full Stack Frontend Developer
+#### I am Full Stack Developer
+
 
 # 💫 About Me:
-I am a professional front-end developer. I can create scalebel functional server site and client user interface and new animations using CSS and JavaScript and work according to the user interface and use Gsap animations to enhance the beauty of the website and work towards fast loading. I am very careful about my work.
+I am a seasoned Java Backend Architect with extensive experience in designing and implementing scalable, robust backend systems for enterprise-level applications. Specializing in microservices architecture, API development, cloud integration, and database optimization, I focus on creating efficient, secure, and maintainable code that aligns with both business and technical requirements. Passionate about solving complex problems and enhancing system performance, I bring a deep understanding of software design principles and hands-on expertise with various frameworks and tools. I thrive in collaborative environments, enjoy mentoring teams, and am dedicated to delivering high-quality backend solutions that drive innovation and success.
 
 Skills: Html || css || javascript || react,angular || redux || Next.js || jQuery/jQuery Pluging & UI || bootstrap/tailwind  || Gsap/sass || figma/psd/xd to html || Responsive Web Design <br>
 
